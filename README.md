@@ -1,2 +1,2 @@
 # onpuLabs
- Lab works, onpu
+ Lab works, onpu. Compilated in CodeBlocks.

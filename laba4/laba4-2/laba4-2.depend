@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667749598 source:c:\users\sergey\desktop\c-algoritm\laba4-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<locale.h>
+

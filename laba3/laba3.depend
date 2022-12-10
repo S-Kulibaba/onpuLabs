@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667745516 source:c:\users\sergey\desktop\c-algoritm\laba3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1667746214 source:c:\users\sergey\desktop\c-algoritm\laba3\second-part.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

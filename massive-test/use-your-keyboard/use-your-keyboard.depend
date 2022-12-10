@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670237925 source:c:\users\sergey\desktop\c-algoritm\massive-test\use-your-keyboard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<locale.h>
+	<stdbool.h>
+
