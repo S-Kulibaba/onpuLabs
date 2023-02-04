@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673032311 source:c:\users\sergey\desktop\c-algoritm\lab-8\lab-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673121882 source:c:\users\sergey\desktop\c-algoritm\lab-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
