@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1673118406 source:c:\users\sergey\desktop\c-algoritm\lab-9\main.c
-	<stdio.h>
-	<string.h>
-	<locale.h>
-

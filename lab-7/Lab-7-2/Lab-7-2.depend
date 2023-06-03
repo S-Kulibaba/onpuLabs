@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1671992782 source:c:\users\sergey\desktop\c-algoritm\lab-7\lab-7-2\main.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<math.h>
-	<locale.h>
-	<stdbool.h>
-
